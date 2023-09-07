@@ -1,0 +1,9 @@
+/Users/diegokingston/Documents/lambdaworks_exercises/challenge_3/target/debug/deps/crc32fast-0b27f0027d117904.rmeta: /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/lib.rs /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/baseline.rs /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/combine.rs /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/specialized/mod.rs /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/table.rs
+
+/Users/diegokingston/Documents/lambdaworks_exercises/challenge_3/target/debug/deps/crc32fast-0b27f0027d117904.d: /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/lib.rs /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/baseline.rs /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/combine.rs /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/specialized/mod.rs /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/table.rs
+
+/Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/lib.rs:
+/Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/baseline.rs:
+/Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/combine.rs:
+/Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/specialized/mod.rs:
+/Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/table.rs:

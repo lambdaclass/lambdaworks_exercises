@@ -1,0 +1,11 @@
+/Users/diegokingston/Documents/lambdaworks_exercises/challenge_4/target/debug/deps/sha2-1b3a94068cbb5e93.rmeta: /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/lib.rs /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/core_api.rs /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/sha256.rs /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/sha512.rs /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/consts.rs /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/sha256/soft.rs /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/sha512/soft.rs
+
+/Users/diegokingston/Documents/lambdaworks_exercises/challenge_4/target/debug/deps/sha2-1b3a94068cbb5e93.d: /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/lib.rs /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/core_api.rs /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/sha256.rs /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/sha512.rs /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/consts.rs /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/sha256/soft.rs /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/sha512/soft.rs
+
+/Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/lib.rs:
+/Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/core_api.rs:
+/Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/sha256.rs:
+/Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/sha512.rs:
+/Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/consts.rs:
+/Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/sha256/soft.rs:
+/Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/sha512/soft.rs:

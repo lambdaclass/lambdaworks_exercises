@@ -1,0 +1,10 @@
+/Users/diegokingston/Documents/lambdaworks_exercises/challenge_4/target/debug/deps/half-b32239008d962132.rmeta: /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/lib.rs /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/bfloat.rs /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/bfloat/convert.rs /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/binary16.rs /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/binary16/convert.rs /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/slice.rs
+
+/Users/diegokingston/Documents/lambdaworks_exercises/challenge_4/target/debug/deps/half-b32239008d962132.d: /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/lib.rs /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/bfloat.rs /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/bfloat/convert.rs /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/binary16.rs /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/binary16/convert.rs /Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/slice.rs
+
+/Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/lib.rs:
+/Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/bfloat.rs:
+/Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/bfloat/convert.rs:
+/Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/binary16.rs:
+/Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/binary16/convert.rs:
+/Users/diegokingston/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/slice.rs:
